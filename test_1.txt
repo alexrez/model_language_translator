@@ -1,0 +1,22 @@
+program {
+int ke;
+int j, k, t=-3, p, sdf=10;
+
+if (3>2) 
+	j=1;
+else
+	j=3;
+
+while(i<5){
+	i= i+1;
+	j= j+5; 
+}
+
+read(k);
+write(1+1, k);
+}
+
+program {
+string s = "abc";
+if (3>2) k = 5; else k = 2;
+}
